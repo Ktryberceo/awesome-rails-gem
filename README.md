@@ -102,6 +102,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 
 ## Email
 * [letter_opener](https://github.com/ryanb/letter_opener) - Preview mail in the browser instead of sending.
+* [groundmail](https://github.com/Groundmail/groundmail-sdks/tree/main/ruby) - Action Mailer delivery method for Groundmail transactional email (`delivery_method = :groundmail`).
 
 ## File Uploading
 * [Carrierwave](https://github.com/carrierwaveuploader/carrierwave) - Carrierwave is a classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
